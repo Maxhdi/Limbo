@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BlankLevel 1.unity
-    guid: bca55717236e1c14b94396fa6e17adc1
-  - enabled: 1
     path: Assets/Scenes/UiScenes/TitleScreen.unity
     guid: ce3f852853f994bf5836effaab3dfe0b
+  - enabled: 1
+    path: Assets/Scenes/BlankLevel 1.unity
+    guid: bca55717236e1c14b94396fa6e17adc1
   - enabled: 1
     path: Assets/Scenes/UiScenes/WinScreen.unity
     guid: ca24066a358f64121aa08929e28f3586
